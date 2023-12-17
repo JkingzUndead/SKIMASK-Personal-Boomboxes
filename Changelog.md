@@ -1,4 +1,4 @@
-1.0.3: Attempting to fix the issue where you have to move folders in the configs
+1.0.3: Attempting to fix the issue where you have to move folders in the configs (expect a 1.0.4 update for read me if I fixed it) and added changelog
 
 1.0.2: Attempting to fix the issue where you have to move folders in the configs and I forgot to remake the plugins folder (oops)
 
