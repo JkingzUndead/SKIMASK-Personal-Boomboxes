@@ -1,7 +1,7 @@
 {
     "name": "SKIMASKPersonalBoomboxes",
     "version_number": "1.0.0",
-    "website_url": "",
+    "website_url": "https://github.com/JkingzUndead/SKIMASK-Personal-Boomboxes",
     "description": "Adds 3 personal boomboxes for me and my friends",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
