@@ -14,7 +14,7 @@ namespace SKIMASKPersonalBoomboxes
   {
     private const string modGUID = "SKIMASKPersonalBoomboxes.SKIMASKPersonalBoomboxes";
     private const string modName = "SKIMASKPersonalBoomboxes";
-    private const string modVersion = "1.0.4";
+    private const string modVersion = "1.0.5";
 
     private readonly Harmony harmony = new Harmony(modGUID);
 
