@@ -1,3 +1,5 @@
+1.0.6 Updated to be in sync with YourOwnPersonalBoombox update to 1.1.2
+
 1.0.5 Fixed and updated Read Me
 
 1.0.4 Reattempting fix and made personal boomboxes cost $20
