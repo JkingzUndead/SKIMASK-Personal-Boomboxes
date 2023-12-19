@@ -9,12 +9,12 @@ namespace SKIMASKPersonalBoomboxes
 {
   [BepInPlugin(modGUID, modName, modVersion)]
   [BepInProcess("Lethal Company.exe")]
-  [BepInDependency("ImoutoSama.PersonalBoombox", "1.1.1")]
+  [BepInDependency("ImoutoSama.PersonalBoombox", "1.1.2")]
   public class SKIMASKPersonalBoomboxes : BaseUnityPlugin
   {
     private const string modGUID = "SKIMASKPersonalBoomboxes.SKIMASKPersonalBoomboxes";
     private const string modName = "SKIMASKPersonalBoomboxes";
-    private const string modVersion = "1.0.5";
+    private const string modVersion = "1.0.6";
 
     private readonly Harmony harmony = new Harmony(modGUID);
 
